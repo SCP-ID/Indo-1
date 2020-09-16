@@ -14,13 +14,13 @@
 # Indo
 Cracking facebook Indonesian 
 # Install
-pkg install python2
-pkg install git
-pkg install mechanize
-pkg install requests
-git clone https://github.com/Tegar-ID/Indo
-cd Indo
-python2 indo_.py
+pkg install python2<br>
+pkg install git<br>
+pkg install mechanize<br>
+pkg install requests<br>
+git clone https://github.com/Tegar-ID/Indo<br>
+cd Indo<br>
+python2 indo_.py<br>
 <center>
 <b>Always Happy With Code</b>
 </center>
